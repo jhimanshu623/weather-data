@@ -1,1 +1,4 @@
-# weather-data
+{
+  "maxtemp":49,
+  "mintemp":-10
+}
